@@ -1,0 +1,1 @@
+This project is about designing a calculator using JavaScript
